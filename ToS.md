@@ -1,10 +1,14 @@
 Participant Agreement
 
 Our Mission Statement:
-The Participants [people, coworkers, groups and community] who use the Space [address] cannot be pigeon holed by job titles or industry sectors, they have a wider curiosity. A loose collection of people finding a way of working better together (both offline and on) focused on inspiration, participation and learning through doing. Anything can happen, and the environments and space(s) change. Participants share a fundamental optimism, a spirit of liberty in action, encouragement and enlightenment – where many people would see problems, Participants see opportunities for positive change, and they wish to take on the personal responsibility for making things happen. Inspiring anyone, to help everyone. Using creative intelligence to solve real problems.
+The Participants [people, coworkers, groups and community] of the Space located at [address] cannot be pigeon holed by job titles or industry sectors, we have a wider curiosity. 
+
+We are a gathering of people finding a way of working better together (both offline and on) focused on inspiration, participation and learning through doing. Anything can happen, and the environments and space(s) change. 
+
+Participants share a fundamental optimism, a spirit of liberty in action, encouragement and enlightenment – where many people would see problems, Participants see opportunities for positive change, and they wish to take on the personal responsibility for making things happen. Inspiring anyone, to help everyone. Using creative intelligence to solve real problems.
 
 Your Responsibilities [see Terms Of Use & Participation pages 2 to 5]
-The Space is quite different to your average working environment. We're not a serviced or staffed space, we have no cleaners and no management. In order to keep things ticking over nicely here are some essentials we ask everyone to be mindful of when using the space.
+The Space is quite different to your average working environment. We're not a serviced or staffed space. In order to keep things ticking over nicely here are some essentials we ask everyone to be mindful of when using the space.
 
 Participation is an extreme sport. You break or lose it, you replace it.
 
@@ -137,9 +141,12 @@ I have read all of the above Terms of Use and the Agreement as a whole and confi
 
 Participant Signature:          ………………………………………………………………..
 Full Name:
-Date:                                                Address:
-Telephone Number(s):                                Email address:
+Date:                                                
+Address:
+Telephone Number(s):                                
+Email address:
 
 CiC Signature:                ………………………………………………………………..
-Name:                                                 on behalf of and with the permission of "Insert Organisation Name"
+Name:                                                 
+on behalf of and with the permission of [Organisation Name]
 Date:
