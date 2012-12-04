@@ -1,4 +1,5 @@
 Participant Agreement
+====================
 
 Our Mission Statement:
 The Participants [people, coworkers, groups and community] of the Space located at [address] cannot be pigeon holed by job titles or industry sectors, we have a wider curiosity. 
