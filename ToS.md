@@ -1,10 +1,12 @@
-Participant Agreement
-====================
+# Participant Agreement
 
-Our Mission Statement:
-The Participants [people, coworkers, groups and community] of the Space located at [address] cannot be pigeon holed by job titles or industry sectors, we have a wider curiosity. 
 
-We are a gathering of people finding a way of working better together (both offline and on) focused on inspiration, participation and learning through doing. Anything can happen, and the environments and space(s) change. 
+## Our Mission Statement:
+The Participants [people, coworkers, groups and community] of the Space located at [address] cannot be pigeon holed by job titles or industry sectors. We have a wider curiosity. 
+
+We are a gathering of people finding a way of working better together (both offline and on) focused on inspiration, participation and learning through doing. Anything can happen, the environments and space(s) change. 
+
+* * *
 
 Participants share a fundamental optimism, a spirit of liberty in action, encouragement and enlightenment – where many people would see problems, Participants see opportunities for positive change, and they wish to take on the personal responsibility for making things happen. Inspiring anyone, to help everyone. Using creative intelligence to solve real problems.
 
